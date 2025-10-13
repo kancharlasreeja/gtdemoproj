@@ -204,6 +204,8 @@ cython_debug/
 #ignore backup files 
 *.bak
 *~
+*.un~
+*~
 
 # Marimo
 marimo/_static/
